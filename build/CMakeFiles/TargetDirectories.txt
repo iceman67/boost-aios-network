@@ -1,0 +1,8 @@
+/Users/mac/Documents/GitHub/boost-aios-network/build/CMakeFiles/test-sync-thread.dir
+/Users/mac/Documents/GitHub/boost-aios-network/build/CMakeFiles/test-thread.dir
+/Users/mac/Documents/GitHub/boost-aios-network/build/CMakeFiles/timer-test.dir
+/Users/mac/Documents/GitHub/boost-aios-network/build/CMakeFiles/server.dir
+/Users/mac/Documents/GitHub/boost-aios-network/build/CMakeFiles/merkle.dir
+/Users/mac/Documents/GitHub/boost-aios-network/build/CMakeFiles/client.dir
+/Users/mac/Documents/GitHub/boost-aios-network/build/CMakeFiles/edit_cache.dir
+/Users/mac/Documents/GitHub/boost-aios-network/build/CMakeFiles/rebuild_cache.dir

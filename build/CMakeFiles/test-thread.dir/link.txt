@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/test-thread.dir/test_thread.cpp.o" -o test-thread   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libboost_thread-mt.dylib 

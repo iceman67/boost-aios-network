@@ -1,0 +1,8 @@
+
+* run server/client
+
+$ ./server 9000
+
+./client 127.0.0.1 9000
+Enter message: world
+Reply is: SG6kYiTRu0+2gPNPfJrZao8k7Ii+c+qOWmxlJg6cuKc=
